@@ -1,0 +1,15 @@
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\bin\Debug\net9.0\day00.exe
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\bin\Debug\net9.0\day00.deps.json
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\bin\Debug\net9.0\day00.runtimeconfig.json
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\bin\Debug\net9.0\day00.dll
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\bin\Debug\net9.0\day00.pdb
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\day00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\day00.AssemblyInfoInputs.cache
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\day00.AssemblyInfo.cs
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\day00.csproj.CoreCompileInputs.cache
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\day00.sourcelink.json
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\day00.dll
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\refint\day00.dll
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\day00.pdb
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\day00.genruntimeconfig.cache
+C:\Users\A1\Desktop\DailyPractice\daya\csharp\day00\obj\Debug\net9.0\ref\day00.dll
